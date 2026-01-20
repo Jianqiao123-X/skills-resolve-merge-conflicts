@@ -1,6 +1,3 @@
-Some test contents here made to be conflict with the other references.md file. 
+# References
 
-
-
-
-Commit message.
+* octocat 1 😈
